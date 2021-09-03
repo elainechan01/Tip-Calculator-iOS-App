@@ -12,7 +12,7 @@ The following **required** functionality is complete:
 
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-* [ ] User can navigate to a static settings page
+* [ ] User can navigate to a static settings page using the top nav bar 
 
 The following **optional** features are to be implemented:
 
@@ -26,7 +26,7 @@ The following **optional** features are to be implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/2IbNxD6.gif)
+![](https://i.imgur.com/0paRWdl.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
